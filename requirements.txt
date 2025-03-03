@@ -1,0 +1,9 @@
+langchain
+langchain-community
+sentence-transformers
+faiss-gpu
+pypdf
+langchain_ollama
+colab-xterm
+langchain-langchain_ollama
+langchain-huggingface
